@@ -1,0 +1,2 @@
+C:\Old Stuff\Projects\Computers & Programming\C++\Dev\BunnySim-again\Debug\BunnySim-again.exe
+C:\Old Stuff\Projects\Computers & Programming\C++\Dev\BunnySim-again\Debug\BunnySim-again.pdb
